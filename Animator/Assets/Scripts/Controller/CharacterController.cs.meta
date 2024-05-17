@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2260637849f0fca43a28e17379857899
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _gameManager: {instanceID: 0}
+  - _floatingJoystick: {instanceID: 0}
+  - _goFootStepFX: {fileID: 3375101149878423041, guid: 2feda6487e64f4ed8b4c0ab39aa41827,
+      type: 3}
+  - _goLandFX: {instanceID: 0}
+  - _goGetTargetFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
